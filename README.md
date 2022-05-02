@@ -1,8 +1,8 @@
-# asd
+# Readme Generator
   ![badge](https://img.shields.io/badge/license-MIT.-green.svg)
 
   ## Description
-  aasd
+  To create a README.md file  
 
   ## Table of Contents
   [Installation](#installation)
@@ -13,20 +13,20 @@
   [Questions](#questions)
 
   ## Installation 
-  asd
+  Installing Inquirer package within node.js
 
   ## Usage
-  asd
+  For user to automatically generate a README.md file through prompt questions.
 
   ## License
   MIT
 
   ## Contributing
-  asd
+  You can contribute by pulling then pushing your work.
 
   ## Test 
   npm test
 
   ## Questions
-  If you have additional questions about this project you can contact me at asd2.
-  Github page: asd
+  If you have additional questions about this project you can contact me at jonghwa101@gmail.com.
+  Github page: jonghwa101
